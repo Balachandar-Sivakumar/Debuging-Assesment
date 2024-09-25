@@ -558,6 +558,12 @@ footer {
   header{
     padding-bottom: 300px;
   }
+
+  #down-arrow {
+    position: absolute;
+    top: 37%;
+    right: 47%;
+}
   
 }
 
